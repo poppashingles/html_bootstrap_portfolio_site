@@ -239,8 +239,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .gallery img {
-	border: 3px solid #1abc9c;
-	border-radius: 20%;
+	border-top: 5px solid #1abc9c;
 }
 
 .github {
